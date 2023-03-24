@@ -68,3 +68,29 @@ input[type="submit"] {
     font-weight: bold;
 
 }
+
+footer {
+    background-color: #373838;
+    padding: 40px;
+    text-align: center;
+}
+
+.picture {
+    width: 160px;
+}
+
+
+
+.description {
+    color: white;
+    display: inline-block;
+    max-width: 40%;
+    margin-left: 40px;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.description p,
+.description h2 {
+    margin-bottom: 20px;
+}
